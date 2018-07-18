@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,###### EXCLUSIVE ######
-http://landiptv.live:8080/live/ltHHqapP4U/3mHIo5FU00/93377.ts
+#EXTINF:-1,###### EXCLUSIVE ######
 #EXTINF:-1,VIP: AKSION HD
 http://landiptv.live:8080/live/ltHHqapP4U/3mHIo5FU00/63480.ts
 #EXTINF:-1,VIP: ANIMAL PLANET HD
@@ -47,7 +47,7 @@ http://landiptv.live:8080/live/ltHHqapP4U/3mHIo5FU00/63486.ts
 http://landiptv.live:8080/live/ltHHqapP4U/3mHIo5FU00/113270.ts
 #EXTINF:-1,VIP: MOVIE BOX 3 HD
 http://landiptv.live:8080/live/ltHHqapP4U/3mHIo5FU00/81917.ts
-#EXTINF:-1,VIP: Movies Now 2
+#EXTINF:-1,VIP: Movies Now 2{
 http://landiptv.live:8080/live/ltHHqapP4U/3mHIo5FU00/84530.ts
 #EXTINF:-1,VIP: Star Movies HD
 http://landiptv.live:8080/live/ltHHqapP4U/3mHIo5FU00/70287.ts
